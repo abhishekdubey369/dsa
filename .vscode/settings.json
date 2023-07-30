@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "*.js": "javascriptreact",
+        "iostream": "cpp",
+        "queue": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "array": "cpp"
+    }
+}

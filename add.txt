@@ -1,0 +1,6 @@
+linear search:
+    worst case: O(n)
+    best case: O(1)
+Binary search:
+    worst case:O(logn)
+    best case:O(1)
